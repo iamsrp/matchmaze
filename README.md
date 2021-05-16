@@ -25,8 +25,8 @@ is the board background which is made up from images of the sun are various
 wavelengths.
 
 The idea and rules mostly just came up as a result of being stuck within our
-four walls with not a lot else to do. The reules have been generally refined
-but there is still likely room for improvement.
+four walls with not a lot else to do. The rules have been generally refined
+since its inception but there is still likely room for improvement.
 
 
 ## Assembly
