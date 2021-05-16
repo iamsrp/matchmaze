@@ -1,6 +1,7 @@
 # Matchmaze Rules
 
-The game is for 2 to 4 players. Ages 5-ish and up.
+The game is for 2 to 4 players. Ages 5-ish and up, though it's fun for all (in
+our experience)..
 
 Set up:
  * The starting positions are the starred corners.
